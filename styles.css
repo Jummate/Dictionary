@@ -31,7 +31,7 @@ header{
 	flex-direction:column;
 	align-items:center;
 	padding:20px;
-	height:90%;
+	height:98%;
 }
 .ctn-display{
 	display:flex;
@@ -41,7 +41,7 @@ header{
 	height:100%;
 }
 .display{
-	height:95%;
+	height:98%;
 	border-radius:5px;
 	background-color:#fffaf0;
 	width:90%;
